@@ -5,7 +5,9 @@ Aplicativo SaaS focado em produtividade e construção de hábitos, combinando f
 🔗 **Landing Page Oficial:** [zerodelay.net.br](https://zerodelay.net.br/)
 📱 **Status:** Em fase de testes na Google Play Store.
 
-*(Adicione aqui 2 ou 3 prints de tela bonitos do seu aplicativo rodando)*
+📱 Telas do Aplicativo.
+
+https://github.com/user-attachments/assets/3e777496-176c-4254-a353-56304298970d
 
 ### 🛠️ Arquitetura e Tecnologias
 Este é um projeto proprietário (código-fonte fechado), desenvolvido com foco em alta performance e escalabilidade.
